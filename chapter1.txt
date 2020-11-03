@@ -1,0 +1,4 @@
+Steps to follow to become a Full stack developer
+a). Front end Development
+1.Learn all the Front end development languages like HTML, CSS, javascrpit
+2.Front end frameworks like Bootstrap, SCSS, jquery and React
