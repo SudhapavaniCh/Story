@@ -1,0 +1,7 @@
+Step3
+1.Learn about the complete backend process.
+2.Creating your own server and make it listen to the port you set
+3.Learn about the backend databases, interaction of your server with the database
+  and the REST API's.
+  Building some web apps using all your knowledge.
+4. Get the shit done

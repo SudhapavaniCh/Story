@@ -1,0 +1,6 @@
+Part 2/ b)
+Learn about the terminal environment and git
+Learn the version controlling it will be of much use
+By this time you need to do some handful of projects related to front end
+Get to know about the back end languages like node.js with express.js, ruby on rails, java, etc
+but choose one among these languages preferably node.js
